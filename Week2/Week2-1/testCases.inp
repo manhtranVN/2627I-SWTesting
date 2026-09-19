@@ -1,0 +1,19 @@
+-1 400.00 Invalid
+0 400.00 An toan
+1 400.00 An toan
+19 400.00 An toan
+20 400.00 An toan
+21 400.00 Khong an toan
+29 400.00 Khong an toan
+30 400.00 Khong an toan
+31 400.00 Invalid
+10 -0.01 Invalid
+10 0.00 An toan
+10 0.01 An toan
+10 849.99 An toan
+10 850.00 An toan
+10 850.01 Khong an toan
+10 1999.99 Khong an toan
+10 2000.00 Khong an toan
+10 2000.01 Invalid
+10 400 An toan

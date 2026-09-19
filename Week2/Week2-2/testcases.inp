@@ -1,0 +1,22 @@
+-0.01 1000.00 Invalid
+0.00 1000.00 Giam 100% phi giao hang
+0.01 1000.00 Giam 100% phi giao hang
+14.99 1000.00 Giam 100% phi giao hang
+15.00 1000.00 Giam 100% phi giao hang
+15.01 1000.00 Giam 50% phi giao hang
+29.99 1000.00 Giam 50% phi giao hang
+30.00 1000.00 Giam 50% phi giao hang
+30.01 1000.00 Khong du dieu kien
+49.99 1000.00 Khong du dieu kien
+50.00 1000.00 Khong du dieu kien
+50.01 1000.00 Invalid
+20.00 -0.01 Invalid
+20.00 0.00 Khong du dieu kien
+20.00 0.01 Khong du dieu kien
+20.00 299.99 Khong du dieu kien
+20.00 300.00 Khong du dieu kien
+20.00 300.01 Giam 50% phi giao hang
+20.00 4999.99 Giam 50% phi giao hang
+20.00 5000.00 Giam 50% phi giao hang
+20.00 5000.01 Invalid
+20.00 1000.00 Giam 50% phi giao hang
